@@ -1,0 +1,17 @@
+#3/25/2022
+
+Account Management
+> Fixed
+  - Optimized button to create account
+
+> Added
+  - RegisterButton added
+  - 'Create Account' layout after button is clicked
+  - Registeration
+    + Check for used usernames
+  
+  
+Constructive Criticism Notes :)
+> Feel free to fix!
+  - Swap screen OnEvents - Some are redundant functions, function that only calls another function not necessary.
+  - 
